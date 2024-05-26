@@ -15,8 +15,8 @@ You can find the code for this project [here](URL).
 
 ### File Overview
 
-- `scraping.ipynb` - Jupyter notebook for scraping our data.
-- `predictions.ipynb` - Jupyter notebook for making predictions.
+- `scraping.py` - file for scraping data.
+- `predictions.py` - file for making predictions.
 
 ## Local Setup
 
